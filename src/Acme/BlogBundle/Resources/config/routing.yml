@@ -1,0 +1,3 @@
+blogs :
+    path : /blogs
+    defaults : {_controller:AcmeBlogBundle:Blog:index}
